@@ -1,9 +1,9 @@
 <h1 align="center">Hello, folks ! 👋</h1>
 <h3 align="center">My name is Angoston Lucas and I'm a software developper engineer.</h3>
+</br>
 
 - 📫 How to reach me **lucasangostonpro@gmail.com**
 
-</br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lucasangoston" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucasangoston" height="30" width="40" /></a>
